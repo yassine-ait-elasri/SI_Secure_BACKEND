@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jul 26 20:49:11 CEST 2023:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046) : instance a816c00e-0189-9388-9eb2-00000699f7a8 
+dans le répertoire de base de données C:\MyDB avec le chargeur de classe jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44
+Chargé de file:/C:/Users/Yassine/Downloads/stg/env/Workstation/SI_Secure/src/main/webapp/WEB-INF/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19+36-2238
+user.dir=C:\Users\Yassine\Downloads\stg\env\Workstation\SI_Secure
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Chargeur de classe de la base de données démarré - derby.database.classpath = ''
